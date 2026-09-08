@@ -7,4 +7,4 @@ shradha khapra.
 
 # Students
 
-Syed Talha
+Syed Talha.
