@@ -1,3 +1,10 @@
 # Syed-Talha-Git
-my first account in github.
+my first class in github to visual studio.
 
+# Teacher 
+
+shradha khapra 
+
+# Students
+
+Syed Talha
