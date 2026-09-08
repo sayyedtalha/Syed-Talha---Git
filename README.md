@@ -3,7 +3,7 @@ my first class in github to visual studio.
 
 # Teacher 
 
-shradha khapra 
+shradha khapra. 
 
 # Students
 
