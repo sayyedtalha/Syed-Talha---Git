@@ -1,2 +1,3 @@
-# Syed-Talha---Git
-my first account in github
+# Syed-Talha-Git
+my first account in github.
+
